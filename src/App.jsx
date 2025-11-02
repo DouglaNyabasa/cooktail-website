@@ -3,6 +3,8 @@ import React from 'react'
 import { ScrollTrigger, SplitText } from 'gsap/all';
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Hero/Hero';
+import Cocktails from './components/Cocktails/Cocktails';
+import About from './components/About/About';
 
 
 
@@ -14,7 +16,8 @@ const App = () => {
    <main>
     <Navbar/>
     <Hero/>
-    <div className="h-dvh bg-black"></div>
+    <Cocktails/>
+    <About/>
    </main>
   )
 }
