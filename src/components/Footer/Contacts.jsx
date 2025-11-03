@@ -45,7 +45,7 @@ const Contact = () => {
 		<div>
 		 <h3>Contact Us</h3>
 		 <p>(263) 542 345 333</p>
-		 <p>hello@jsmcocktail.com</p>
+		 <p>cocktail@gmail.com</p>
 		</div>
 		
 		<div>
